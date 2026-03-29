@@ -29,16 +29,8 @@ The main goal is to study the interaction between **network architecture** and *
 
 **Suggested figure:** training-to-deployment pipeline or complete benchmarking workflow.
 
----
-
-## Video Demonstration
-
-> Add your YouTube demo link below.
-
-**YouTube Demo:**  
+## Video Demonstration 
 https://youtu.be/LS8pOz9uuPw?si=qeKznMmPftzhh8Kl
-
----
 
 ## Main Contributions
 
@@ -47,8 +39,6 @@ https://youtu.be/LS8pOz9uuPw?si=qeKznMmPftzhh8Kl
 - Real-device benchmarking on **Raspberry Pi 4B** using both predictive and system-level metrics  
 - An **Edge Deployment Score (EDS)** framework for integrated deployment-oriented evaluation  
 - Validation using a dedicated **edge-collected waste dataset** reflecting practical operating conditions  
-
----
 
 ## Repository Structure
 
