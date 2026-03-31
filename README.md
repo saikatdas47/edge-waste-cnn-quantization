@@ -1,5 +1,4 @@
-# Edge-Optimized CNN Deployment for Waste Classification  
-### A Hardware-Aware Evaluation of Quantization Trade-offs on Raspberry Pi 4B
+# Hardware-Aware CNN Deployment for Waste Classification: Quantization–Architecture Trade-offs on Edge Devices
 
 This repository contains the implementation, trained models, TensorFlow Lite conversions, benchmarking outputs, and visualization assets for a hardware-aware study of CNN deployment for waste classification on resource-constrained edge devices.
 
