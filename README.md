@@ -20,10 +20,8 @@ The main goal is to study the interaction between **network architecture** and *
 
 ## Overall Pipeline Figure
 
-> Replace the placeholder below with your final system or workflow figure.
-
 <p align="center">
-<img width="250" height="" alt="Screenshot 2026-04-04 at 3 25 31 AM" src="https://github.com/user-attachments/assets/7ea1c5a7-09a6-4ea2-a950-bce0da4adb60" />
+<img width="300" height="" alt="Screenshot 2026-04-04 at 3 25 31 AM" src="https://github.com/user-attachments/assets/7ea1c5a7-09a6-4ea2-a950-bce0da4adb60" />
 
 </p>
 
